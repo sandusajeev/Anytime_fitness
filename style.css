@@ -1,0 +1,23 @@
+.navbar{
+    background-color: blueviolet;
+}
+
+.know{
+    background-color: blueviolet;
+}
+
+.caro{
+    position: relative;
+    display: flex;
+
+}
+
+.foot a{
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    font-size: 15px;
+}
+
+.foot li{
+margin-top: 5px;
+}
