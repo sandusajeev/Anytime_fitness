@@ -1,23 +1,128 @@
-.navbar{
-    background-color: blueviolet;
+* {
+    font-family: "moon extra bold", Sans-serif;
 }
 
-.know{
-    background-color: blueviolet;
+.main {
+    margin-top: 100px;
 }
 
-.caro{
-    position: relative;
-    display: flex;
+.navbar {
+    background-color: #6c4e88;
+    height: 100px;
+    width: 100%;
+}
+
+.navbar img {
+    height: 85px;
+    width: 145px;
+}
+
+
+
+.main_div {
+    background: url('https://www.anytimefitness.co.in/wp-content/uploads/2023/06/website-image-1024x432.jpg');
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
-.foot a{
-    text-decoration: none;
-    color: rgb(95, 95, 95);
+.first img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.second h2 {
+    color: #221551;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.know {
+    background-color: #8a2be2;
+}
+
+.know:hover {
+    background-color: #e22bab;
+}
+
+.second p {
+    font-size: 14px;
+}
+
+.thrid h2 {
+    color: #221551;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.thrid p {
+    font-size: 14px;
+}
+
+.fourth h2 {
+    color: #221551;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.fourth p {
+    font-size: 14px;
+}
+
+.fith h2 {
+    color: #221551;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.fith p {
+    font-size: 14px;
+}
+
+.sixth h2 {
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.sixth p {
     font-size: 15px;
 }
 
-.foot li{
-margin-top: 5px;
+.email_box {
+    width: 340px;
+    background-color: #c4c4c4;
+    color: #222020;
+
+}
+
+.sub_btn {
+    margin-right: -1px;
+    background-color: #ffffff;
+    color: black;
+}
+
+.sub_btn:hover {
+    background-color: #9c4adf;
+    border: #222020 solid 1px;
+}
+
+.foot a {
+    text-decoration: none;
+    color: #9c9c9c;
+    font-size: .95em;
+}
+
+.foot li {
+    margin-top: 5px;
+}
+
+.foot a:hover {
+    color: #ffff;
+}
+
+.nav-item:hover {
+    color: #6c4e88;
 }
